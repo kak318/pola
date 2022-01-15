@@ -127,7 +127,7 @@ def info():
   print("Data: 15.01.2022")
   print("Pełna Nazwa: Obliczanie pól POLA")
   print("Licencja: Apache License 2.0")
-  print("Kod źródłowy: ")
+  print("Kod źródłowy: https://github.com/kak318/pola")
 
 def menu():
   os.system("clear")
