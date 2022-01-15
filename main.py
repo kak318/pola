@@ -123,7 +123,7 @@ def obliczPola():
 def info():
   os.system("clear")
   print("~ Informacje")
-  print("Autor: Jan Milewski 6C")
+  print("Autor: Jan Mi###### 6C")
   print("Data: 15.01.2022")
   print("Pełna Nazwa: Obliczanie pól POLA")
   print("Licencja: Apache License 2.0")
